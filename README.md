@@ -27,3 +27,6 @@ Original videos was taken from [shutterstock.com](https://www.shutterstock.com/)
 
 [Update to Python 3](https://github.com/pbelevich/MultiGarmentNetwork/compare/master...pbelevich:python3)
 
+## License
+
+This non-commercial educational demo MIT licensed. See the license file [here](https://github.com/pbelevich/virtual-try-on/blob/main/LICENSE). It's based on [FrankMocap](https://github.com/facebookresearch/frankmocap) (Copyright (c) Facebook, Inc. and its affiliates) and [MultiGarmentNetwork](https://github.com/bharat-b7/MultiGarmentNetwork) (Copyright (c) 2019 Bharat Lal Bhatnagar, Max-Planck-Gesellschaft). It uses [PyTorch3d](https://github.com/facebookresearch/pytorch3d) (Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.) renderer and [MPI-IS Mesh Processing Library](https://github.com/MPI-IS/mesh) to support [SMPL](https://smpl.is.tue.mpg.de/). Original low-resolution videos was taken from [shutterstock.com](https://www.shutterstock.com/)
